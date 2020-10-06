@@ -1,1 +1,1 @@
-# RRI-butterflycalculation
+# RRI-butterfly
